@@ -7,8 +7,8 @@ var employeeController=function(req, res){
     {id:101,ename:"Meena",designation:"HR",Total_Leaves:12,Remaining_Leaves:5},
 {id:102,ename:"Tina",designation:"Operations Mgr",Total_Leaves:12,Remaining_Leaves:3},
 {id:103,ename:"Geeta",designation:"CSA",Total_Leaves:12,Remaining_Leaves:6},
-{id:104,ename:"Radha",designation:"Manager",Total_Leaves:12,Remaining_Leaves:5}
-  ];
+{id:104,ename:"Radha",designation:"Manager",Total_Leaves:12,Remaining_Leaves:5},
+{id:105,ename:"Pooja",designation:"SiteLead",Total_Leaves:12,Remaining_Leaves:7} ];
   res.send(employee);
 };
 
