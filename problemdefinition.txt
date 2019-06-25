@@ -1,0 +1,29 @@
+problem definition:
+
+Fabrikam company wants to build "host Information Management Solutions"
+  1)Host Public website for online shopping i.e build "online shopping system"
+Online Shopping Application Displaying the product to be sold by company that will be 
+purchased by cutomers 
+  2)Develop "FeedBack and Leave Management  System for employees" of Fabrikam
+
+Employee must be able to provide feedback and manage their leaves using intranet host service this will help managing 
+Leaves of employee  and improve companies performance.
+
+ 
+  
+
+Functional Requirement:
+1)Register
+2)Login
+3)getFeedback 
+4)ManageLeaves
+5)Logout
+
+6)Show Products
+7)Make Order
+8)Make Payment
+
+Non Functional Requirement:
+1)Security
+2)User Inteface
+3)Speed of response

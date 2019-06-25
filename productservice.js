@@ -5,7 +5,9 @@ var productController=function(req, res){
   
   var products = [
     {id:101,pname:"iphone",description:"Apple company smart phone",price:42000},
-{id:102,pname:"samsung s8",description:"Samsung company smart phone",price:52000}
+{id:102,pname:"samsung s8",description:"Samsung company smart phone",price:52000},
+{id:101,pname:"Sony TV",description:"Sony company TV",price:150000},
+{id:102,pname:"HP Laptop",description:"HP company Laptop",price:75000}
   ];
   res.send(products);
 };
